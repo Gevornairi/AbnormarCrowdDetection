@@ -3,6 +3,10 @@ Abnormal Crowd Detection Implementation with Python
 
 The project is in a context of Computer Vision class
 
+Crowd Flow With Abnormal Simulation Video
+
+[![Watch the video](http://img.youtube.com/vi/6N8IgeqhNNI/0.jpg)](https://youtu.be/6N8IgeqhNNI)
+
 Normal Crowd Flow
 
 Normal Crowd Flow Video 1
@@ -20,10 +24,6 @@ Normal Crowd Flow Video 3
 Normal Crowd Flow Video 4
 
 [![Watch the video](http://img.youtube.com/vi/MN1MuQb9L6Y/0.jpg)](https://youtu.be/MN1MuQb9L6Y)
-
-Normal Crowd Flow Video 5
-
-[![Watch the video](http://img.youtube.com/vi/6N8IgeqhNNI/0.jpg)](https://youtu.be/6N8IgeqhNNI)
 
 Normal Crowd Flow Overflow
 
