@@ -1,8 +1,8 @@
-# AbnormarCrowdDetection
+# Abnormar Crowd Detection
 Abnormal Crowd Detection Implementation with Python
 
 
-Crowd Flow With Abnormal Simulation Video
+# Crowd Flow With Abnormal Simulation Video
 
 [![Watch the video](http://img.youtube.com/vi/6N8IgeqhNNI/0.jpg)](https://youtu.be/6N8IgeqhNNI)
 
