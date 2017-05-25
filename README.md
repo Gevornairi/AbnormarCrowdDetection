@@ -10,6 +10,7 @@ Please click on the image to navigate to the video.
 
 
 Please click on the image to navigate to the video.
+
 [![Watch the video](http://img.youtube.com/vi/rEJpO0L2Psg/0.jpg)](https://youtu.be/rEJpO0L2Psg)
 
 # Normal Crowd Flow
