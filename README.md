@@ -1,6 +1,7 @@
 # Abnormar Crowd Detection
 Abnormal Crowd Detection Implementation with Python
 
+![Alt text](/AbnormarCrowdDetection/likelihoods.PNG?raw=true "Function Pick")
 
 # Crowd Flow With Abnormal Simulation Video
 
