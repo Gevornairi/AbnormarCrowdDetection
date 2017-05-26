@@ -1,4 +1,4 @@
-# Abnormar Crowd Detection
+# Abnormal Crowd Detection
 Abnormal Crowd Detection Implementation with Python
 
 ![Alt text](/likelihoods.PNG?raw=true "Function Pick")
