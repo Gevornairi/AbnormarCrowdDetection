@@ -3,7 +3,6 @@ Abnormal Crowd Detection Implementation with Python
 
 ![Alt text](/picture1.png?raw=true "Function Pick")
 
-![Alt text](/picture2.png?raw=true "Function Pick")
 
 # Crowd Flow With Abnormal Simulation Video
 
