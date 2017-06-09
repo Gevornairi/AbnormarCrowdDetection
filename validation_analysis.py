@@ -6,6 +6,7 @@ import lda
 import matplotlib.pyplot as plt
 import time
 
+
 '''
 This is the reproduction of "Abnormal Crowd Behavior Detection using Social Force Model" by Ramin Mehran, Alexis Oyama, Mubarak Shah
 The document is attached to project
@@ -27,6 +28,10 @@ def show_data(videoUrl,resize):
     axes = plt.gca()
     axes.set_xlim(0, 6500)
     axes.set_ylim(-4000, +0)
+    axes.set_xticks([1220,4650,6445], minor=False)
+    axes.set_xticks([420,520,1097,1495,1670,2170,2245,2670,2795,3270,3345,3995,4095,4520,4620,5145,5195,5695,5770,6395], minor=True)
+    axes.xaxis.grid(True, which='major',color='b', linestyle='-', alpha=0.8)
+    axes.xaxis.grid(True, which='minor',color='r', linestyle='-', alpha=0.2)
     line, = axes.plot(xdata, ydata, 'r-')
     cam = cv2.VideoCapture(videoUrl)
     liks=np.load('LDAresult/likelihood.npy')
